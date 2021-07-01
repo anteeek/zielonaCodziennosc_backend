@@ -1,14 +1,3 @@
-# (nazwa) backend 🎉🎉🎉🎉🎉🎉
-
-[![Build Status](https://travis-ci.com/anteeek/hackheroes_temp_server.svg?token=FMjKkwfuVYj8mskr7sDm&branch=master)](https://travis-ci.com/anteeek/hackheroes_temp_server) master
-
-[![Build Status](https://travis-ci.com/anteeek/hackheroes_temp_server.svg?token=FMjKkwfuVYj8mskr7sDm&branch=development)](https://travis-ci.com/anteeek/hackheroes_temp_server) development
-
-
-#### (nazwa)'s server. 
-
-###  [Demo](https://hackheroesserver.antek.now.sh/)
-
 ## Installation
 
 ```sh
